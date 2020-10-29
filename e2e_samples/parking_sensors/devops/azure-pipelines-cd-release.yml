@@ -10,7 +10,7 @@ resources:
       branches:
       - master
   repositories:
-  - repository: mdwdataops_adfpublish
+  - repository: FXEI/modern-data-warehouse-dataops
     type: github
     endpoint: mdwdo-park-github
     name: devlace/mdw-dataops-clone
